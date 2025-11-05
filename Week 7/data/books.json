@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Clean Code",
+    "author": "Robert C. Martin",
+    "price": 599,
+    "availability": "In Stock",
+    "image": "https://m.media-amazon.com/images/I/41jEbK-jG+L.jpg",
+    "link": "https://www.goodreads.com/book/show/3735293-clean-code"
+  },
+  {
+    "title": "The Pragmatic Programmer",
+    "author": "Andrew Hunt",
+    "price": 749,
+    "availability": "In Stock",
+    "image": "https://m.media-amazon.com/images/I/41as+WafrFL._SX380_BO1,204,203,200_.jpg",
+    "link": "https://www.goodreads.com/book/show/4099.The_Pragmatic_Programmer"
+  },
+  {
+    "title": "JavaScript: The Good Parts",
+    "author": "Douglas Crockford",
+    "price": 399,
+    "availability": "Out of Stock",
+    "image": "https://m.media-amazon.com/images/I/41kKB1e0VKL.jpg",
+    "link": "https://www.goodreads.com/book/show/2998152-javascript"
+  },
+  {
+    "title": "You Don’t Know JS",
+    "author": "Kyle Simpson",
+    "price": 499,
+    "availability": "In Stock",
+    "image": "https://m.media-amazon.com/images/I/41v7QxF4mZL.jpg",
+    "link": "https://www.goodreads.com/book/show/23627471-you-don-t-know-js"
+  }
+]
